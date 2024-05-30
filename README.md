@@ -1,4 +1,4 @@
-# Developing-a-System-to-Filter-and-Categorize-Movie-Reviews
+# Sentiment Analysis Model for Classic Film Reviews
 
 Project Description:
 
